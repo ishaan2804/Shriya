@@ -1,0 +1,6 @@
+# Requirements for FastAPI Server
+
+fastapi
+uvicorn
+pandas
+fastapi[all]  # Includes CORS support
